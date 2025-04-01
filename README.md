@@ -6,7 +6,7 @@
 - 🤔 Interesse em segurança web e otimização de banco de dados.  
 - 💬 Estudante de ADS buscando me tornar fullstack.  
 - 📫 Me encontre no GitHub, LinkedIn e outros perfis!  
-- ⚡ Participei do NASA Space Apps Hackathon e adoro desafios de programação! 🚀
+- ⚡ Participei do NASA Space Apps Hackathon e adoro desafios de programação! 🚀  
 
 ### 🚀 Tecnologias que estou aprendendo:  
 
@@ -18,7 +18,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="50" height="50"/>
 </p>
- 📊 GitHub Stats
+
+### 📊 GitHub Stats  
 <div>
   <a href="https://github.com/Yuriportf">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yuriportf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -26,29 +27,21 @@
   </a>
 </div>
 
+### 🌐 Conecte-se comigo  
 <div>
-  <!-- *********************** ADICIONE SUAS REDES SOCIAIS ABAIXO *********************** -->
-  <a href="mailto:SEU_EMAIL">
+  <a href="mailto:ysoli7777@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   
-  <a href="https://wa.me/SEU_NUMERO" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+  <a href="https://www.instagram.com/_yurioliv_/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-  
-  <a href="SUA_URL_LINKEDIN" target="_blank">
+
+  <a href="https://www.linkedin.com/in/yuri-oliveira-aqui" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   
-  <a href="SUA_URL_INSTAGRAM" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-    
-  <a href="SUA_URL_DISCORD" target="_blank">
+  <a href="https://discord.com/users/yuri_xxvi" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
   </a>
-  <!-- ********************************************************************************** -->
 </div>
-
-
-
