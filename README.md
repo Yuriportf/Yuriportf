@@ -37,6 +37,23 @@
 
 ###
 
+
+
+
+###
+
+<div align="center">
+  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTZxN245eXF5Z3c0cHppamVoaW14YmJuaHpnYjN5bTh3ZzhwbGdtYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif" />
+</div>
+
+
+###
+
+<div align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Yuriportf.Yuriportf&left_color=seagreen&right_color=seagreen"  />
+</div>
+
+###
 <div align="center">
   <a href="mailto:ysoli7777@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
@@ -70,19 +87,3 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo" />
   </a>
 </div>
-
-
-###
-
-<div align="center">
-  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTZxN245eXF5Z3c0cHppamVoaW14YmJuaHpnYjN5bTh3ZzhwbGdtYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif" />
-</div>
-
-
-###
-
-<div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Yuriportf.Yuriportf&left_color=seagreen&right_color=seagreen"  />
-</div>
-
-###
