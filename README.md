@@ -1,13 +1,12 @@
 ## Olá! 👋  
 
-- 🔭 Atualmente, estou trabalhando em projetos acadêmicos e sistemas web, incluindo um sistema de gerenciamento de estoque e uma plataforma para acompanhamento de atendimentos educacionais.  
-- 🌱 Estou aprendendo Python e Java, além de explorar frameworks como Flask e SQLAlchemy.  
-- 👯 Busco colaborar em projetos de desenvolvimento web e APIs.  
-- 🤔 Preciso de ajuda com boas práticas de segurança em aplicações web e otimização de banco de dados.  
-- 💬 Pergunte-me sobre minha jornada como estudante de ADS e desenvolvimento backend.  
-- 📫 Como me encontrar: você pode me achar aqui no GitHub, no LinkedIn ou nos links de perfil!  
-- 😄 Pronomes: Ele/Dele  
-- ⚡ Curiosidade: Participei do NASA Space Apps Hackathon e adoro desafios de programação!  
+- 🔭 Trabalhando em projetos acadêmicos e sistemas web, como um sistema de estoque e uma plataforma de atendimentos educacionais.  
+- 🌱 Aprendendo Python, Java e explorando Flask e SQLAlchemy.  
+- 👯 Busco colaboração em projetos web e APIs.  
+- 🤔 Interesse em segurança web e otimização de banco de dados.  
+- 💬 Estudante de ADS buscando me tornar fullstack.  
+- 📫 Me encontre no GitHub, LinkedIn e outros perfis!  
+- ⚡ Participei do NASA Space Apps Hackathon e adoro desafios de programação! 🚀
 
 ### 🚀 Tecnologias que estou aprendendo:  
 
@@ -27,8 +26,29 @@
   </a>
 </div>
 
-
-
+<div>
+  <!-- *********************** ADICIONE SUAS REDES SOCIAIS ABAIXO *********************** -->
+  <a href="mailto:SEU_EMAIL">
+    <img src="https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  
+  <a href="https://wa.me/SEU_NUMERO" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+  </a>
+  
+  <a href="SUA_URL_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  
+  <a href="SUA_URL_INSTAGRAM" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+    
+  <a href="SUA_URL_DISCORD" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+  <!-- ********************************************************************************** -->
+</div>
 
 
 
