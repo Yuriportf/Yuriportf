@@ -19,7 +19,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="50" height="50"/>
 </p>
-## 📊 GitHub Stats
+ 📊 GitHub Stats
 <div>
   <a href="https://github.com/Yuriportf">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yuriportf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
