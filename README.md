@@ -2,8 +2,10 @@
 
 ###
 
-<h3 align="left">Idiomas e ferramentas:</h3>
-<p align="left">
+<h3 align="left"><u>Idiomas e ferramentas:</u></h3>
+
+
+<p align="center">
  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -22,13 +24,14 @@
 
 ###
 
-<br clear="both">
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yuriportf&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=false&order=1" height="165" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yuriportf&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=9&theme=aura&hide_border=false&order=2" height="165" alt="languages graph"  />
- 
+  <img src="https://github-readme-stats.vercel.app/api?username=Yuriportf&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ocean_dark&locale=en&hide_border=false&order=1" height="162" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yuriportf&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=ocean_dark&hide_border=false&order=2" height="162" alt="languages graph"  />
 </div>
+
+
+
+
 
 ###
 
