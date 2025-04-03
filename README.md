@@ -14,8 +14,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" />
+   <img width="12" />
+  <img src="https://devicon-website.vercel.app/api/mysql/original.svg" height="40" alt="MySQL logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite logo" />
+   <img width="12" />
   <img src="https://devicon-website.vercel.app/api/vscode/original.svg" height="40" alt="VS Code logo" />
   <img width="12" />
   <img src="https://devicon-website.vercel.app/api/trello/plain.svg" height="40" alt="Trello logo" />
