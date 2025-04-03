@@ -2,32 +2,44 @@
 
 ###
 
-<h3 align="left"><u>Idiomas e ferramentas:</u></h3>
 
+## 🖥️ Tecnologias e Ferramentas  
 
+### 🚀 Linguagens de Programação  e Ferramentas de Desenvolvimento  
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite logo" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img src="https://devicon-website.vercel.app/api/vscode/original.svg" height="40" alt="VS Code logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"height="40" alt="nodejs" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
+
+
+  
+  <!-- Flask adaptável ao tema -->
+  <picture>
+    <source srcset="https://devicon-website.vercel.app/api/flask/original.svg?color=%23FFFFFF" media="(prefers-color-scheme: dark)">
+    <img src="https://devicon-website.vercel.app/api/flask/original.svg?color=%23010101" height="40" alt="Flask logo" />
+  </picture>
 </div>
+
+### 🎨 Ferramentas de Design  
+<div align="left">
+  <img src="https://devicon-website.vercel.app/api/figma/original.svg" height="40" alt="Figma logo" />
+  <img width="12" />
+  <img src="https://devicon-website.vercel.app/api/photoshop/plain.svg" height="40" alt="Photoshop logo" />
+  <img width="12" />
+  <img src="https://devicon-website.vercel.app/api/canva/original.svg" height="40" alt="Canva logo" />
+</div>
+
+
+###
+ 
 
 ###
  
