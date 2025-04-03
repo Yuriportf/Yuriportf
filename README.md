@@ -14,7 +14,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite logo" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" />
+  <img src="https://devicon-website.vercel.app/api/nodejs/original.svg?color=%2383CD29" height="40" alt="Node.js logo" />
   <img width="12" />
   <img src="https://devicon-website.vercel.app/api/vscode/original.svg" height="40" alt="VS Code logo" />
   <img width="12" />
