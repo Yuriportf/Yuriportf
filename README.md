@@ -23,8 +23,7 @@
   <img width="12" />
   <img src="https://devicon-website.vercel.app/api/trello/plain.svg" height="40" alt="Trello logo" />
   <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/nodejs/original.svg?color=%2383CD29" height="40" alt="Node.js logo" />
-  <img width="12" />
+
 
   
   <!-- Flask adaptável ao tema -->
