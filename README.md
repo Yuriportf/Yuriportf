@@ -30,15 +30,13 @@
   <img width="12" />
   <img src="https://devicon-website.vercel.app/api/trello/plain.svg" height="40" alt="Trello logo" />
   <img width="12" />
-
-
-  
+ 
   <!-- Flask adaptável ao tema -->
   <picture>
     <source srcset="https://devicon-website.vercel.app/api/flask/original.svg?color=%23FFFFFF" media="(prefers-color-scheme: dark)">
     <img src="https://devicon-website.vercel.app/api/flask/original.svg?color=%23010101" height="40" alt="Flask logo" />
   </picture>
-</div>
+ </div>
 
 ### 🎨 Ferramentas de Design  
 <div align="left">
@@ -47,12 +45,10 @@
   <img src="https://devicon-website.vercel.app/api/photoshop/plain.svg" height="40" alt="Photoshop logo" />
   <img width="12" />
   <img src="https://devicon-website.vercel.app/api/canva/original.svg" height="40" alt="Canva logo" />
-</div>
+
  <img width="12" />
-
+ </div>
  
- </p>
-
 
 ###
 
@@ -62,8 +58,6 @@
 </div>
 
 
-
-###
 
 ###
 <div align="center">
