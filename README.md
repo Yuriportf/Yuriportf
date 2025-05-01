@@ -13,8 +13,9 @@
 ###
  
 ## 🖥️ Tecnologias e Ferramentas  
-<div align="left">
- 🚀 Linguagens de Programação  e Ferramentas de Desenvolvimento   
+
+ 
+### 🚀 Linguagens de Programação  e Ferramentas de Desenvolvimento   
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
   <img width="12" />
