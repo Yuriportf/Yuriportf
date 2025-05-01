@@ -28,8 +28,6 @@
   <img width="12" />
   <img src="https://devicon-website.vercel.app/api/mysql/original.svg" height="40" alt="MySQL logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite logo" />
-  <img width="12" /:
   <picture>
   <img src="https://devicon-website.vercel.app/api/vscode/original.svg" height="40" alt="VS Code logo" />
   </picture>
