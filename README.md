@@ -1,21 +1,24 @@
-
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+&weight=500&size=30&pause=1000&color=FFFFFF&center=true&width=435&lines=ol%C3%A1%F0%9F%91%8B%2C+eu+sou+Yuri+!+" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&weight=500&size=25&pause=1000&color=FFFFFF&center=true&width=435&lines=Olá%F0%9F%91%8B%2C+eu+sou+Yuri!" alt="Typing SVG" />
+  </a>
 </div>
 
-<p align="left">Estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal de Pernambuco (IFPE). Recentemente, finalizei um sistema de gerenciamento de estoque e agora estou focado em aprimorar minha base de conhecimento através de exercícios, que estarei publicando em meus repositórios, além de participar dos projetos do Com.Domínio Digital. <br><br>Estou sempre em busca de novos aprendizados e, no momento, estou estudando Python, Java, Flask e SQLAlchemy. Meu foco é no desenvolvimento web, e meu objetivo é me tornar um desenvolvedor fullstack. <br><br>Em 2024, participei do NASA Space Apps Hackathon, onde tive a oportunidade de enfrentar desafios de programação e trabalhar em equipe para criar soluções inovadoras. <br><br>Se quiser trocar ideias ou colaborar em projetos, você pode me encontrar no GitHub, LinkedIn e outras plataformas! 🚀</p>
+<p align="left">
+  Estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal de Pernambuco (IFPE). Finalizei recentemente um sistema de gerenciamento de estoque e, atualmente, estou focado em aprimorar minha base de conhecimentos por meio de exercícios e projetos publicados em meus repositórios. Também participo ativamente das atividades do Com.Domínio Digital.<br><br>
 
+  Estou constantemente buscando novos aprendizados. No momento, estudo Python, Java, Flask e SQLAlchemy, com foco principal no desenvolvimento web. Meu objetivo é me tornar um desenvolvedor full stack.<br><br>
 
+  Em 2024, participei do NASA Space Apps Hackathon, onde enfrentei desafios reais de programação em equipe e desenvolvi soluções inovadoras.<br><br>
 
+  Se quiser trocar ideias ou colaborar em projetos, me encontra no GitHub, LinkedIn e outras plataformas! 🚀
+</p>
 
+---
 
-
-###
- 
 ## 🖥️ Tecnologias e Ferramentas  
 
- 
-### 🚀 Linguagens de Programação  e Ferramentas de Desenvolvimento   
+### 🚀 Linguagens de Programação e Ferramentas de Desenvolvimento
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
   <img width="12" />
@@ -29,19 +32,15 @@
   <img width="12" />
   <img src="https://devicon-website.vercel.app/api/mysql/original.svg" height="40" alt="MySQL logo" />
   <img width="12" />
-  <picture>
   <img src="https://devicon-website.vercel.app/api/vscode/original.svg" height="40" alt="VS Code logo" />
-  </picture>
   <img width="12" />
   <img src="https://devicon-website.vercel.app/api/trello/plain.svg" height="40" alt="Trello logo" />
   <img width="12" />
- 
-  <!-- Flask adaptável ao tema -->
   <picture>
     <source srcset="https://devicon-website.vercel.app/api/flask/original.svg?color=%23FFFFFF" media="(prefers-color-scheme: dark)">
     <img src="https://devicon-website.vercel.app/api/flask/original.svg?color=%23010101" height="40" alt="Flask logo" />
   </picture>
- </div>
+</div>
 
 ### 🎨 Ferramentas de Design  
 <div align="left">
@@ -50,40 +49,35 @@
   <img src="https://devicon-website.vercel.app/api/photoshop/plain.svg" height="40" alt="Photoshop logo" />
   <img width="12" />
   <img src="https://devicon-website.vercel.app/api/canva/original.svg" height="40" alt="Canva logo" />
-
- <img width="12" />
- </div>
- 
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yuriportf&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yuriportf&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
+---
 
-
-
-###
 <div align="center">
-<img src="https://raw.githubusercontent.com/Yuriportf/Yuriportf/output/snake.svg" alt="Snake animation" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yuriportf&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yuriportf&layout=compact&langs_count=6&theme=github_dark&hide_border=false" height="150" />
 </div>
 
-###
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Yuriportf/Yuriportf/output/snake.svg" alt="Snake animation" />
+</div>
+
+---
 
 <div align="center">
   <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTZxN245eXF5Z3c0cHppamVoaW14YmJuaHpnYjN5bTh3ZzhwbGdtYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif" />
 </div>
 
-###
+---
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Yuriportf.Yuriportf&left_color=seagreen&right_color=seagreen"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Yuriportf.Yuriportf&left_color=seagreen&right_color=seagreen" />
 </div>
 
-###
+---
+
 <div align="center">
   <a href="mailto:ysoli7777@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
