@@ -74,9 +74,12 @@
 </div>
 
 ---
-
 <div align="center">
+
   <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTZxN245eXF5Z3c0cHppamVoaW14YmJuaHpnYjN5bTh3ZzhwbGdtYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif" />
+
+  <img height="200" src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" />
+
 </div>
 
 ---
@@ -84,6 +87,8 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Yuriportf.Yuriportf&left_color=E50914&right_color=E50914" />
 </div>
+
+
 
 ---
 
