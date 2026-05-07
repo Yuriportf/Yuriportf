@@ -1,18 +1,24 @@
 <div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=9&stroke=-&animation=blinking&descSize=16&descAlign=50&descAlignY=50&textBg=false&color=gradient" />
+</div>
+
+
+<div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&weight=500&size=25&pause=1000&color=FFFFFF&center=true&width=435&lines=Olá%F0%9F%91%8B%2C+eu+sou+Yuri!" alt="Typing SVG" />
   </a>
 </div>
 
 <p align="left">
-  Estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal de Pernambuco (IFPE). Finalizei recentemente um sistema de gerenciamento de estoque e, atualmente, estou focado em aprimorar minha base de conhecimentos por meio de exercícios e projetos publicados em meus repositórios. Também participo ativamente das atividades do Com.Domínio Digital.<br><br>
+  Estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal de Pernambuco (IFPE). Fui fundador e atual vice-presidente da primeira Liga Acadêmica de Engenharia de Software do IFPE – Campus Recife, onde atuo diretamente na gestão de equipes e projetos, com foco em organização, liderança técnica e execução de iniciativas no ambiente acadêmico.<br><br>
 
-  Estou constantemente buscando novos aprendizados. No momento, estudo Python, Java, Flask e SQLAlchemy, com foco principal no desenvolvimento web. Meu objetivo é me tornar um desenvolvedor full stack.<br><br>
+  Tenho forte atuação prática no desenvolvimento de software, gostando de “colocar a mão no código” e transformar ideias em soluções funcionais. Essa vivência me permite integrar a parte técnica com a gestão de pessoas, contribuindo para uma entrega mais eficiente de projetos.<br><br>
 
-  Se quiser trocar ideias ou colaborar em projetos, me encontra no GitHub, LinkedIn e outras plataformas! 🚀
+  Atualmente, sigo fortalecendo meus conhecimentos por meio de exercícios e projetos publicados nos meus repositórios, além de participação ativa em iniciativas acadêmicas e colaborativas.<br><br>
+
+  
 </p>
 
----
 
 ## 🖥️ Tecnologias e Ferramentas
 
@@ -78,7 +84,7 @@
   <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTZxN245eXF5Z3c0cHppamVoaW14YmJuaHpnYjN5bTh3ZzhwbGdtYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif" />
 </div>
 
----
+
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Yuriportf.Yuriportf&left_color=seagreen&right_color=seagreen" />
@@ -114,4 +120,8 @@
   <a href="https://t.me/+5547997089153" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
+</div>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=E50914&fontColor=FFFFFF" />
 </div>
