@@ -1,11 +1,10 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=9&stroke=-&animation=blinking&descSize=16&descAlign=50&descAlignY=50&textBg=false&color=gradient" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=E50914&fontColor=FFFFFF" />
 </div>
-
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&weight=500&size=25&pause=1000&color=FFFFFF&center=true&width=435&lines=Olá%F0%9F%91%8B%2C+eu+sou+Yuri!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=32&pause=1000&color=E50914&center=true&width=435&lines=Olá,+eu+sou+Yuri" />
   </a>
 </div>
 
@@ -14,11 +13,10 @@
 
   Tenho forte atuação prática no desenvolvimento de software, gostando de “colocar a mão no código” e transformar ideias em soluções funcionais. Essa vivência me permite integrar a parte técnica com a gestão de pessoas, contribuindo para uma entrega mais eficiente de projetos.<br><br>
 
-  Atualmente, sigo fortalecendo meus conhecimentos por meio de exercícios e projetos publicados nos meus repositórios, além de participação ativa em iniciativas acadêmicas e colaborativas.<br><br>
-
-  
+  Atualmente, sigo fortalecendo meus conhecimentos por meio de exercícios e projetos publicados nos meus repositórios, além de participação ativa em iniciativas acadêmicas e colaborativas.
 </p>
 
+---
 
 ## 🖥️ Tecnologias e Ferramentas
 
@@ -62,14 +60,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="42" alt="arduino logo"  />
 </div>
 
-
-
-
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yuriportf&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yuriportf&layout=compact&langs_count=6&theme=github_dark&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yuriportf&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&title_color=E50914&icon_color=E50914" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuriportf&layout=compact&langs_count=6&theme=dark&hide_border=true&title_color=E50914" height="150" />
 </div>
 
 ---
@@ -84,44 +79,46 @@
   <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTZxN245eXF5Z3c0cHppamVoaW14YmJuaHpnYjN5bTh3ZzhwbGdtYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif" />
 </div>
 
-
+---
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Yuriportf.Yuriportf&left_color=seagreen&right_color=seagreen" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Yuriportf.Yuriportf&left_color=E50914&right_color=E50914" />
 </div>
 
 ---
 
 <div align="center">
-  <a href="mailto:ysoli7777@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <a href="mailto:ysoli7777@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-E50914?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
-  <a href="https://www.linkedin.com/in/yuri-oliveira-aqui" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/yuri-oliveira-aqui">
+    <img src="https://img.shields.io/badge/LinkedIn-E50914?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="https://discord.com/users/967015974580658226" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  <a href="https://discord.com/users/967015974580658226">
+    <img src="https://img.shields.io/badge/Discord-E50914?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 
-  <a href="https://www.instagram.com/_yurioliv_/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <a href="https://www.instagram.com/_yurioliv_/">
+    <img src="https://img.shields.io/badge/Instagram-E50914?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
-  <a href="https://x.com/ysolivcod" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  <a href="https://x.com/ysolivcod">
+    <img src="https://img.shields.io/badge/Twitter-E50914?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 
-  <a href="https://www.facebook.com/profile.php?id=100082949528674" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  <a href="https://www.facebook.com/profile.php?id=100082949528674">
+    <img src="https://img.shields.io/badge/Facebook-E50914?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 
-  <a href="https://t.me/+5547997089153" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  <a href="https://t.me/+5547997089153">
+    <img src="https://img.shields.io/badge/Telegram-E50914?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </div>
 
+---
+
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=E50914&fontColor=FFFFFF" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=E50914&fontColor=FFFFFF" />
 </div>
