@@ -20,7 +20,7 @@
 
 ## 🖥️ Tecnologias e Ferramentas
 
-### 🚀 Linguagens e Ferramentas de Desenvolvimento
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="42" alt="java logo"  />
