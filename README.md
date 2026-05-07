@@ -9,8 +9,6 @@
 
   Estou constantemente buscando novos aprendizados. No momento, estudo Python, Java, Flask e SQLAlchemy, com foco principal no desenvolvimento web. Meu objetivo é me tornar um desenvolvedor full stack.<br><br>
 
-  Em 2024, participei do NASA Space Apps Hackathon, onde enfrentei desafios reais de programação em equipe e desenvolvi soluções inovadoras.<br><br>
-
   Se quiser trocar ideias ou colaborar em projetos, me encontra no GitHub, LinkedIn e outras plataformas! 🚀
 </p>
 
