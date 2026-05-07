@@ -75,10 +75,16 @@
 
 ---
 <div align="center">
-  <img height="250" src="https://i.pinimg.com/originals/90/91/be/9091be3312d7c4b36490895e7617e992.gif"/>
+
+  <img src="https://i.gifer.com/9HUm.webp" height="180" style="display:inline-block; margin:5px;" />
+  
+  <img src="https://i.pinimg.com/originals/90/91/be/9091be3312d7c4b36490895e7617e992.gif" height="180" style="display:inline-block; margin:5px;" />
+
+
+  <img src="https://i.gifer.com/9HUo.webp" height="180" style="display:inline-block; margin:5px;" />
+
+
 </div>
-
-
 ---
 
 <div align="center">
