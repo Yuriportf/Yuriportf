@@ -75,12 +75,9 @@
 
 ---
 <div align="center">
-
-  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTZxN245eXF5Z3c0cHppamVoaW14YmJuaHpnYjN5bTh3ZzhwbGdtYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif" />
-
-  <img height="200" src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" />
-
+  <img height="250" src="https://i.pinimg.com/originals/90/91/be/9091be3312d7c4b36490895e7617e992.gif"/>
 </div>
+
 
 ---
 
