@@ -18,9 +18,28 @@
 
 ---
 
+## 📚 Estudando atualmente
+
+<div align="left">
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,aws,nextjs" />
+</p>
+
+<p>
+  Atualmente focado no aprofundamento em <b>Java</b> e no ecossistema <b>Spring Boot</b>, com ênfase na construção de aplicações backend bem estruturadas e escaláveis.<br><br>
+
+  Paralelamente, estudo <b>Estruturas de Dados e Algoritmos</b>, buscando desenvolver raciocínio analítico, domínio de complexidade (<i>Big-O</i>) e capacidade de resolver problemas de forma eficiente e organizada.<br><br>
+
+  Também venho explorando <b>AWS (Amazon Web Services)</b>, compreendendo os fundamentos de computação em nuvem e como aplicar esses serviços na construção e deploy de aplicações modernas.<br><br>
+
+  No frontend, estudo <b>Next.js</b>, focando na construção de interfaces performáticas, renderização híbrida (SSR/SSG) e integração eficiente com APIs backend.
+</p>
+
+</div>
+---
+
 ## 🖥️ Tecnologias e Ferramentas
-
-
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="42" alt="java logo"  />
@@ -82,18 +101,13 @@
   
   <img src="https://i.pinimg.com/originals/90/91/be/9091be3312d7c4b36490895e7617e992.gif" height="180" style="display:inline-block; margin:5px;" />
 
-
   <img src="https://i.gifer.com/9HUo.webp" height="180" style="display:inline-block; margin:5px;" />
 
-
 </div>
-
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Yuriportf.Yuriportf&left_color=E50914&right_color=E50914" />
 </div>
-
-
 
 ---
 
