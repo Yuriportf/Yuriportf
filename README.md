@@ -65,8 +65,8 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yuriportf&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&title_color=E50914&icon_color=E50914" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuriportf&layout=compact&langs_count=6&theme=dark&hide_border=true&title_color=E50914" height="150" />
+  <img src="https://SEU-PROJETO.vercel.app/api?username=Yuriportf&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&title_color=E50914&icon_color=E50914" height="150" />
+  <img src="https://SEU-PROJETO.vercel.app/api/top-langs/?username=Yuriportf&layout=compact&langs_count=6&theme=dark&hide_border=true&title_color=E50914" height="150" />
 </div>
 
 ---
