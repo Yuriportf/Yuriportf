@@ -4,18 +4,21 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=32&pause=1000&color=E50914&center=true&width=435&lines=Olá,+eu+sou+Yuri" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=32&pause=1000&color=E50914&center=true&width=435&lines=Olá,+eu+sou+Yuri+!" />
   </a>
+<div style="border: 2px dashed #E50914; border-radius: 12px; padding: 16px; margin-top: 20px; text-align: justify; max-width: 700px; margin: 20px auto;">
+
+<p>
+Estudante de Análise e Desenvolvimento de Sistemas no IFPE, onde sou fundador e vice-presidente da primeira Liga Acadêmica de Engenharia de Software do campus Recife, e também estudante de Ciência da Computação na Estácio de Sá. Atuo com desenvolvimento de software, focado em transformar ideias em soluções práticas e bem estruturadas, em constante evolução através de projetos e iniciativas acadêmicas.
+</p>
+
 </div>
 
-<div align="left">
-  Estudante de Análise e Desenvolvimento de Sistemas no IFPE. 
-  Fundador e vice-presidente da Liga de Engenharia de Software do campus Recife.
-  Atuo com desenvolvimento de software, focado em transformar ideias em soluções práticas e bem estruturadas.
-  Em constante evolução através de projetos e iniciativas acadêmicas.
-</div><br><br>
-
-## 🖥️ Tecnologias e Ferramentas
+<div align="center">
+  <h2 style="color:#E50914; font-family:'Bebas Neue', sans-serif; letter-spacing:2px;">
+    TECNOLOGIAS E FERRAMENTAS
+  </h2>
+</div>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="42" />
