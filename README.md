@@ -57,13 +57,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="42" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="42" />
+  
 </div>
 
 <div align="center">
   <img src="https://SEU-PROJETO.vercel.app/api?username=Yuriportf&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&title_color=E50914&icon_color=E50914" height="150" />
   <img src="https://SEU-PROJETO.vercel.app/api/top-langs/?username=Yuriportf&layout=compact&langs_count=6&theme=dark&hide_border=true&title_color=E50914" height="150" />
+</div><br><br>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=32&pause=1000&color=E50914&center=true&width=435&lines=Meus+COMITS" />
+  </a>
 </div>
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/Yuriportf/Yuriportf/output/snake.svg" alt="Snake animation" />
 </div>
@@ -80,7 +85,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Yuriportf.Yuriportf&left_color=E50914&right_color=E50914" />
 </div>
 
-## 📫 Contato
+
 
 <div align="center">
   <a href="mailto:ysoli7777@gmail.com">
