@@ -136,19 +136,8 @@
   />
   -->
 
-  <br><br>
+  
 
-  <!-- 💻 LINGUAGENS (VERSÃO SEGURA E LEVE - SEM API EXTERNA) -->
-  <h3>💻 Linguagens mais usadas</h3>
-
-  <img src="https://img.shields.io/badge/Java-E50914?style=flat-square&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-E50914?style=flat-square&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-E50914?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-E50914?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-E50914?style=flat-square&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-E50914?style=flat-square&logo=sqlite&logoColor=white"/>
-
-</div>
 <br><br>
 
 <!-- ===================== SEGUNDO TEXTO ANIMADO ===================== -->
