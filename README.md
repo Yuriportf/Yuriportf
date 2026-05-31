@@ -18,16 +18,10 @@
   <!-- Caixa estilizada com borda e padding usando CSS inline -->
   <div style="border: 2px dashed #E50914; border-radius: 12px; padding: 16px; margin-top: 20px; text-align: justify; max-width: 700px; margin: 20px auto;">
 
-  
-  
-      Estudante de Análise e Desenvolvimento de Sistemas no IFPE,
-      onde sou fundador e vice-presidente da primeira Liga Acadêmica de Engenharia de Software do campus Recife,
-      e também estudante de Ciência da Computação na Estácio de Sá.
-      Atuo com desenvolvimento de software, focado em transformar ideias em soluções práticas e bem estruturadas,
-      em constante evolução através de projetos e iniciativas acadêmicas.
-   
+  Estudante de Análise e Desenvolvimento de Sistemas no IFPE, onde fui fundador e vice-presidente da primeira Liga Acadêmica de Engenharia de Software do campus Recife, e atualmente atuo como Diretor de Desenvolvimento de Projetos. Também sou estudante de Ciência da Computação na Estácio de Sá.
 
-  
+  Atuo com desenvolvimento de software, focado em transformar ideias em soluções práticas e bem estruturadas, sempre buscando evolução por meio de projetos acadêmicos e experiências práticas.
+
 </div>
 
 <!-- ===================== TÍTULO DA STACK ===================== -->
@@ -42,7 +36,6 @@
 <!-- ===================== ÍCONES DE TECNOLOGIAS ===================== -->
 <div align="left">
 
-  <!-- Cada imagem é um ícone de tecnologia vindo de CDN externa -->
   <!-- Java -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="42" />
   <img width="12" />
@@ -71,6 +64,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" />
   <img width="12" />
 
+  <!-- Django -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="42" />
+  <img width="12" />
+
+  <!-- Flask -->
+  <img src="https://cdn.simpleicons.org/flask/FFFFFF" height="42" />
+  <img width="12" />
+  
   <!-- Vue.js -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="42" />
   <img width="12" />
@@ -103,7 +104,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" />
   <img width="12" />
 
-  <!-- AWS (Skillicons API) -->
+  <!-- AWS -->
   <img src="https://skillicons.dev/icons?i=aws" height="42" />
   <img width="12" />
 
@@ -127,7 +128,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="42" />
 
 </div>
-
 <!-- ===================== GITHUB STATS ===================== -->
 <div align="center">
 
