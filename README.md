@@ -74,7 +74,11 @@
   <!-- Vue.js -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="42" />
   <img width="12" />
-
+  
+  <!-- Next.js -->
+  <img src="https://skillicons.dev/icons?i=nextjs" height="42" />
+  <img width="12" />
+  
   <!-- C++ -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="42" />
   <img width="12" />
