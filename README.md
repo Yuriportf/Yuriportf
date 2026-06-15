@@ -10,8 +10,8 @@
 
 <!-- ===================== NOME ESTÁTICO ===================== -->
 <div align="center">
-<h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Audiowide&weight=700&size=36&pause=1000&color=E50914&background=00000000&center=true&vCenter=true&width=600&height=60&lines=%F0%9F%91%BE+YURI+OLIVEIRA+%F0%9F%91%BE" alt="YURI OLIVEIRA" />
+<h1 style="font-family: 'Audiowide', sans-serif; font-weight: 700; font-size: 36px; color: #E50914; text-align: center; letter-spacing: 4px; margin: 0;">
+    👾 YURI OLIVEIRA 👾
   </h1>
   <p style="color:#FF3333; font-size: 16px; margin-top: 4px; letter-spacing: 2px;">ADS @ IFPE | Ciência da Computação @ Estácio</p>
 </div>
