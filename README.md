@@ -1,169 +1,129 @@
 <!-- ===================== HEADER ANIMADO (TOPO DO README) ===================== -->
 <div align="center">
-  <!-- Banner gerado por API externa (Capsule Render) -->
-  <!-- Cria o efeito de “onda” no topo do perfil -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=E50914&fontColor=FFFFFF" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=0:0a0014,50:E50914,100:8B0000&fontColor=FFFFFF" />
 </div>
 
-<!-- ===================== TEXTO ANIMADO (TYPE SVG) ===================== -->
+<!-- ===================== AVATAR ===================== -->
 <div align="center">
-  <!-- Link para serviço de texto digitando animado -->
+  <img src="https://github.com/Yuriportf.png" width="160px" style="border-radius: 50%; border: 4px solid #E50914; box-shadow: 0 0 25px rgba(229,9,20,0.6);" alt="Yuri Oliveira" />
+</div>
+
+<!-- ===================== NOME ESTÁTICO ===================== -->
+<div align="center">
+<h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Audiowide&weight=700&size=36&pause=1000&color=E50914&background=00000000&center=true&vCenter=true&width=600&height=60&lines=%F0%9F%91%BE+YURI+OLIVEIRA+%F0%9F%91%BE" alt="YURI OLIVEIRA" />
+  </h1>
+  <p style="color:#FF3333; font-size: 16px; margin-top: 4px; letter-spacing: 2px;">ADS @ IFPE | Ciência da Computação @ Estácio</p>
+</div>
+
+<!-- ===================== TÍTULO ANIMADO (ABAIXO DA APRESENTAÇÃO ESTÁTICA) ===================== -->
+<div align="center">
   <a href="https://git.io/typing-svg">
-    <!-- Texto animado estilo "digitando" -->
-    <!-- Serve para chamar atenção para o nome/apresentação -->
-    <img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=32&pause=1000&color=E50914&center=true&width=435&lines=Olá,+eu+sou+Yuri+!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=32&pause=1000&color=E50914&background=00000000&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+perfil+%F0%9F%91%8B;Eu+sou+Yuri+Oliveira;Desenvolvedor+Full+Stack;Java+%7C+Spring+%7C+TypeScript;Python+%7C+Django+%7C+Flask;Vue+%7C+Next.js+%7C+React;Sempre+codando%2C+After+Hours" />
   </a>
+</div>
 
-  <!-- ===================== BIO / APRESENTAÇÃO ===================== -->
-  <!-- Caixa estilizada com borda e padding usando CSS inline -->
-  <div style="border: 2px dashed #E50914; border-radius: 12px; padding: 16px; margin-top: 20px; text-align: justify; max-width: 700px; margin: 20px auto;">
+<br>
 
-  Estudante de Análise e Desenvolvimento de Sistemas no IFPE, onde fui fundador e vice-presidente da primeira Liga Acadêmica de Engenharia de Software do campus Recife, e atualmente atuo como Diretor de Desenvolvimento de Projetos. Também sou estudante de Ciência da Computação na Estácio de Sá.
+<!-- ===================== BIO ===================== -->
+<div align="center">
+  <div style="border: 2px solid #E50914; border-radius: 12px; padding: 16px; margin-top: 10px; text-align: justify; max-width: 700px; background: linear-gradient(160deg, #0a0014 0%, #1a0000 100%); box-shadow: 0 0 20px rgba(229,9,20,0.25);">
+
+  Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** no IFPE, onde fui fundador e vice-presidente da primeira **Liga Acadêmica de Engenharia de Software** do campus Recife, e atualmente atuo como **Diretor de Desenvolvimento de Projetos**. Também sou estudante de **Ciência da Computação** na **Estácio**.
 
   Atuo com desenvolvimento de software, focado em transformar ideias em soluções práticas e bem estruturadas, sempre buscando evolução por meio de projetos acadêmicos e experiências práticas.
 
+  </div>
 </div>
 
-<!-- ===================== TÍTULO DA STACK ===================== -->
+<br>
+
+<!-- ===================== STACK / TECNOLOGIAS (TOPO) ===================== -->
 <div align="center">
-  <!-- Título da seção de tecnologias -->
-  <!-- Usado apenas como separador visual -->
-  <h2 style="color:#E50914; font-family:'Bebas Neue', sans-serif; letter-spacing:2px;">
-    TECNOLOGIAS E FERRAMENTAS
-  </h2>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=28&pause=1000&color=E50914&background=00000000&center=true&vCenter=true&width=500&lines=Tecnologias+%26+Ferramentas" />
 </div>
 
-<!-- ===================== ÍCONES DE TECNOLOGIAS ===================== -->
-<div align="left">
+<div align="center">
 
-  <!-- Java -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="42" />
   <img width="12" />
-
-  <!-- Spring Boot -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="42" />
   <img width="12" />
-
-  <!-- JavaScript -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" />
   <img width="12" />
-
-  <!-- TypeScript -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="42" />
   <img width="12" />
-
-  <!-- HTML -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42" />
   <img width="12" />
-
-  <!-- CSS -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="42" />
   <img width="12" />
-
-  <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" />
   <img width="12" />
-
-  <!-- Django -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="42" />
   <img width="12" />
-
-  <!-- Flask -->
   <img src="https://cdn.simpleicons.org/flask/FFFFFF" height="42" />
   <img width="12" />
-  
-  <!-- Vue.js -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="42" />
   <img width="12" />
-  
-  <!-- Next.js -->
   <img src="https://skillicons.dev/icons?i=nextjs" height="42" />
   <img width="12" />
-  
-  <!-- C++ -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="42" />
   <img width="12" />
-
-  <!-- PostgreSQL -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="42" />
   <img width="12" />
-
-  <!-- MySQL -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="42" />
   <img width="12" />
-
-  <!-- SQLite -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="42" />
   <img width="12" />
-
-  <!-- Firebase -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="42" />
   <img width="12" />
-
-  <!-- Git -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" />
   <img width="12" />
-
-  <!-- AWS -->
   <img src="https://skillicons.dev/icons?i=aws" height="42" />
   <img width="12" />
-
-  <!-- Docker -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="42" />
   <img width="12" />
-
-  <!-- Linux -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="42" />
   <img width="12" />
-
-  <!-- VSCode -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="42" />
   <img width="12" />
-
-  <!-- IntelliJ -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="42" />
   <img width="12" />
-
-  <!-- Arduino -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="42" />
 
 </div>
-<!-- ===================== GITHUB STATS ===================== -->
-<div align="center">
 
-  <!-- 📊 GRAFICO ORIGINAL (DESATIVADO TEMPORARIAMENTE POR INSTABILIDADE DA API) -->
-  <!-- Quando a API voltar, basta descomentar este bloco -->
-  <!--
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Yuriportf&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&title_color=E50914&icon_color=E50914" 
-    height="150" 
-  />
-  -->
+<br>
 
-  
-
-<br><br>
-
-<!-- ===================== SEGUNDO TEXTO ANIMADO ===================== -->
+<!-- ===================== TÍTULO COMMITS ===================== -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <!-- Seção "Meus commits" animada -->
-    <img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=32&pause=1000&color=E50914&center=true&width=435&lines=Meus+COMITS" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=28&pause=1000&color=E50914&background=00000000&center=true&vCenter=true&width=435&lines=Meus+COMMITS" />
   </a>
+</div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yuriportf&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=0A0014&title_color=E50914&icon_color=E50914&text_color=FFFFFF" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuriportf&layout=compact&theme=dark&hide_border=true&bg_color=0A0014&title_color=E50914&text_color=FFFFFF" height="180" />
+</p>
+
+<br />
+
+<!-- ===================== ATIVIDADE (REDUZIDO) ===================== -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yuriportf&theme=react-dark&hide_border=true&bg_color=0A0014&color=E50914&line=E50914&point=FFFFFF&area=true&area_color=E50914" width="65%" />
 </div>
 
 <!-- ===================== SNAKE ANIMATION ===================== -->
 <div align="center">
-  <!-- Animação de cobra com commits do GitHub -->
-  <img src="https://raw.githubusercontent.com/Yuriportf/Yuriportf/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Yuriportf/Yuriportf/output/snake.svg" alt="Snake animation" width="80%" />
 </div>
 
 ---
 
-<!-- ===================== IMAGENS DECORATIVAS ===================== -->
+<!-- ===================== IMAGENS DECORATIVAS (ORIGINAIS) ===================== -->
 <div align="center">
 
-  <!-- GIFs decorativos (não funcionais, só visual) -->
   <img src="https://i.gifer.com/9HUm.webp" height="180" />
   <img src="https://i.pinimg.com/originals/90/91/be/9091be3312d7c4b36490895e7617e992.gif" height="180" />
   <img src="https://i.gifer.com/9HUo.webp" height="180" />
@@ -172,52 +132,43 @@
 
 <!-- ===================== VISITAS ===================== -->
 <div align="center">
-  <!-- Badge de visitantes do perfil -->
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Yuriportf.Yuriportf&left_color=E50914&right_color=E50914" />
 </div>
 
-<!-- ===================== LINKS SOCIAIS ===================== -->
-<div align="center">
+<!-- ===================== LINKS SOCIAIS (RODAPÉ VERMELHO, TEXTO BRANCO) ===================== -->
+<div align="center" style="background: linear-gradient(135deg, #8B0000, #E50914); padding: 20px; border-radius: 12px; margin-top: 16px;">
 
-  <!-- Gmail -->
   <a href="mailto:ysoli7777@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-E50914?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-0A0014?style=for-the-badge&logo=gmail&logoColor=FFFFFF" />
   </a>
 
-  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/yuri-oliveira-aqui">
-    <img src="https://img.shields.io/badge/LinkedIn-E50914?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A0014?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" />
   </a>
 
-  <!-- Discord -->
   <a href="https://discord.com/users/967015974580658226">
-    <img src="https://img.shields.io/badge/Discord-E50914?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/Discord-0A0014?style=for-the-badge&logo=discord&logoColor=FFFFFF" />
   </a>
 
-  <!-- Instagram -->
   <a href="https://www.instagram.com/_yurioliv_/">
-    <img src="https://img.shields.io/badge/Instagram-E50914?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-0A0014?style=for-the-badge&logo=instagram&logoColor=FFFFFF" />
   </a>
 
-  <!-- Twitter -->
   <a href="https://x.com/ysolivcod">
-    <img src="https://img.shields.io/badge/Twitter-E50914?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitter-0A0014?style=for-the-badge&logo=twitter&logoColor=FFFFFF" />
   </a>
 
-  <!-- Facebook -->
   <a href="https://www.facebook.com/profile.php?id=100082949528674">
-    <img src="https://img.shields.io/badge/Facebook-E50914?style=for-the-badge&logo=facebook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Facebook-0A0014?style=for-the-badge&logo=facebook&logoColor=FFFFFF" />
   </a>
 
-  <!-- Telegram -->
   <a href="https://t.me/+5547997089153">
-    <img src="https://img.shields.io/badge/Telegram-E50914?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Telegram-0A0014?style=for-the-badge&logo=telegram&logoColor=FFFFFF" />
   </a>
 
 </div>
 
 <!-- ===================== FOOTER ANIMADO ===================== -->
 <div align="center">
-  <!-- Banner final em forma de onda -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=E50914&fontColor=FFFFFF" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:8B0000,50:E50914,100:0a0014&fontColor=FFFFFF" />
 </div>
