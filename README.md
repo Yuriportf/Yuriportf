@@ -3,44 +3,35 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=0:0a0014,50:E50914,100:8B0000&fontColor=FFFFFF" />
 </div>
 
-<!-- ===================== AVATAR ===================== -->
-<div align="center">
-  <img src="https://github.com/Yuriportf.png" width="160px" style="border-radius: 50%; border: 4px solid #E50914; box-shadow: 0 0 25px rgba(229,9,20,0.6);" alt="Yuri Oliveira" />
-</div>
-
 <!-- ===================== NOME ESTÁTICO ===================== -->
 <div align="center">
-<h1 style="font-family: 'Audiowide', sans-serif; font-weight: 700; font-size: 36px; color: #E50914; text-align: center; letter-spacing: 4px; margin: 0;">
+  <h1 style="font-family: 'Orbitron', sans-serif; font-weight: 700; font-size: 34px; color: #E50914; letter-spacing: 5px; margin: 12px 0 4px;">
     👾 YURI OLIVEIRA 👾
   </h1>
-  <p style="color:#FF3333; font-size: 16px; margin-top: 4px; letter-spacing: 2px;">ADS @ IFPE | Ciência da Computação @ Estácio</p>
+  <p style="color:#FF3333; font-size: 15px; letter-spacing: 2px;">ADS @ IFPE · Ciência da Computação @ Estácio</p>
 </div>
 
-<!-- ===================== TÍTULO ANIMADO (ABAIXO DA APRESENTAÇÃO ESTÁTICA) ===================== -->
+<!-- ===================== TÍTULO ANIMADO ===================== -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=32&pause=1000&color=E50914&background=00000000&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+perfil+%F0%9F%91%8B;Eu+sou+Yuri+Oliveira;Desenvolvedor+Full+Stack;Java+%7C+Spring+%7C+TypeScript;Python+%7C+Django+%7C+Flask;Vue+%7C+Next.js+%7C+React;Sempre+codando%2C+After+Hours" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=26&pause=1000&color=E50914&background=00000000&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;Java+%7C+Spring+%7C+TypeScript;Python+%7C+Django+%7C+Flask;Vue+%7C+Next.js+%7C+React;Sempre+codando%2C+After+Hours" />
   </a>
 </div>
 
 <br>
 
-<!-- ===================== BIO ===================== -->
-<div align="center">
-  <div style="border: 2px solid #E50914; border-radius: 12px; padding: 16px; margin-top: 10px; text-align: justify; max-width: 700px; background: linear-gradient(160deg, #0a0014 0%, #1a0000 100%); box-shadow: 0 0 20px rgba(229,9,20,0.25);">
+<!-- ===================== BIO (ENXUTA) ===================== -->
+<div align="center" style="max-width: 650px; margin: 0 auto; font-family: 'Share Tech Mono', monospace; color: #FF6666;">
 
-  Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** no IFPE, onde fui fundador e vice-presidente da primeira **Liga Acadêmica de Engenharia de Software** do campus Recife, e atualmente atuo como **Diretor de Desenvolvimento de Projetos**. Também sou estudante de **Ciência da Computação** na **Estácio**.
+Fundador e ex-vice-presidente da primeira Liga Acadêmica de Engenharia de Software do IFPE (Recife), hoje Diretor de Desenvolvimento de Projetos. Transformo ideias em software bem estruturado, sempre em evolução através de projetos acadêmicos e práticos. 👾
 
-  Atuo com desenvolvimento de software, focado em transformar ideias em soluções práticas e bem estruturadas, sempre buscando evolução por meio de projetos acadêmicos e experiências práticas.
-
-  </div>
 </div>
 
 <br>
 
-<!-- ===================== STACK / TECNOLOGIAS (TOPO) ===================== -->
+<!-- ===================== STACK / TECNOLOGIAS ===================== -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=28&pause=1000&color=E50914&background=00000000&center=true&vCenter=true&width=500&lines=Tecnologias+%26+Ferramentas" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1000&color=E50914&background=00000000&center=true&vCenter=true&width=500&lines=Tecnologias+%26+Ferramentas" />
 </div>
 
 <div align="center">
@@ -98,7 +89,7 @@
 <!-- ===================== TÍTULO COMMITS ===================== -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=28&pause=1000&color=E50914&background=00000000&center=true&vCenter=true&width=435&lines=Meus+COMMITS" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1000&color=E50914&background=00000000&center=true&vCenter=true&width=435&lines=Meus+COMMITS" />
   </a>
 </div>
 
@@ -109,7 +100,7 @@
 
 <br />
 
-<!-- ===================== ATIVIDADE (REDUZIDO) ===================== -->
+<!-- ===================== ATIVIDADE ===================== -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yuriportf&theme=react-dark&hide_border=true&bg_color=0A0014&color=E50914&line=E50914&point=FFFFFF&area=true&area_color=E50914" width="65%" />
 </div>
@@ -119,23 +110,12 @@
   <img src="https://raw.githubusercontent.com/Yuriportf/Yuriportf/output/snake.svg" alt="Snake animation" width="80%" />
 </div>
 
----
-
-<!-- ===================== IMAGENS DECORATIVAS (ORIGINAIS) ===================== -->
-<div align="center">
-
-  <img src="https://i.gifer.com/9HUm.webp" height="180" />
-  <img src="https://i.pinimg.com/originals/90/91/be/9091be3312d7c4b36490895e7617e992.gif" height="180" />
-  <img src="https://i.gifer.com/9HUo.webp" height="180" />
-
-</div>
-
 <!-- ===================== VISITAS ===================== -->
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Yuriportf.Yuriportf&left_color=E50914&right_color=E50914" />
 </div>
 
-<!-- ===================== LINKS SOCIAIS (RODAPÉ VERMELHO, TEXTO BRANCO) ===================== -->
+<!-- ===================== LINKS SOCIAIS ===================== -->
 <div align="center" style="background: linear-gradient(135deg, #8B0000, #E50914); padding: 20px; border-radius: 12px; margin-top: 16px;">
 
   <a href="mailto:ysoli7777@gmail.com">
