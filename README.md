@@ -93,17 +93,11 @@ Fundador e ex-vice-presidente da primeira Liga Acadêmica de Engenharia de Softw
   </a>
 </div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yuriportf&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=0A0014&title_color=E50914&icon_color=E50914&text_color=FFFFFF" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuriportf&layout=compact&theme=dark&hide_border=true&bg_color=0A0014&title_color=E50914&text_color=FFFFFF" height="180" />
-</p>
+
 
 <br />
 
 <!-- ===================== ATIVIDADE ===================== -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yuriportf&theme=react-dark&hide_border=true&bg_color=0A0014&color=E50914&line=E50914&point=FFFFFF&area=true&area_color=E50914" width="65%" />
-</div>
 
 <!-- ===================== SNAKE ANIMATION ===================== -->
 <div align="center">
