@@ -8,30 +8,21 @@
   <h1 style="font-family: 'Orbitron', sans-serif; font-weight: 700; font-size: 34px; color: #E50914; letter-spacing: 5px; margin: 12px 0 4px;">
     👾 YURI OLIVEIRA 👾
   </h1>
-  <p style="color:#FF3333; font-size: 15px; letter-spacing: 2px;">ADS @ IFPE · Ciência da Computação @ Estácio</p>
+  <p style="color:#FF3333; font-size: 15px; letter-spacing: 2px;">⚡ ADS @ IFPE · Ciência da Computação @ Estácio ⚡</p>
 </div>
 
 <!-- ===================== TÍTULO ANIMADO ===================== -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=26&pause=1000&color=E50914&background=00000000&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;Java+%7C+Spring+%7C+TypeScript;Python+%7C+Django+%7C+Flask;Vue+%7C+Next.js+%7C+React;Sempre+codando%2C+After+Hours" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=26&pause=1000&color=E50914&background=00000000&center=true&vCenter=true&width=600&lines=🚀+Desenvolvedor+Full+Stack;☕+Java+%7C+Spring+%7C+TypeScript;🐍+Python+%7C+Django+%7C+Flask;🖥️+Vue+%7C+Next.js+%7C+React;💻+Sempre+codando%2C+After+Hours" />
   </a>
-</div>
-
-<br>
-
-<!-- ===================== BIO (ENXUTA) ===================== -->
-<div align="center" style="max-width: 650px; margin: 0 auto; font-family: 'Share Tech Mono', monospace; color: #FF6666;">
-
-Fundador e ex-vice-presidente da primeira Liga Acadêmica de Engenharia de Software do IFPE (Recife), hoje Diretor de Desenvolvimento de Projetos. Transformo ideias em software bem estruturado, sempre em evolução através de projetos acadêmicos e práticos. 👾
-
 </div>
 
 <br>
 
 <!-- ===================== STACK / TECNOLOGIAS ===================== -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1000&color=E50914&background=00000000&center=true&vCenter=true&width=500&lines=Tecnologias+%26+Ferramentas" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1000&color=E50914&background=00000000&center=true&vCenter=true&width=500&lines=🛠️+Tecnologias+e+Ferramentas" />
 </div>
 
 <div align="center">
@@ -89,25 +80,52 @@ Fundador e ex-vice-presidente da primeira Liga Acadêmica de Engenharia de Softw
 <!-- ===================== TÍTULO COMMITS ===================== -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1000&color=E50914&background=00000000&center=true&vCenter=true&width=435&lines=Meus+COMMITS" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1000&color=E50914&background=00000000&center=true&vCenter=true&width=435&lines=📊+Meus+Commits" />
   </a>
 </div>
 
-
-
 <br />
-
-<!-- ===================== ATIVIDADE ===================== -->
 
 <!-- ===================== SNAKE ANIMATION ===================== -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/Yuriportf/Yuriportf/output/snake.svg" alt="Snake animation" width="80%" />
 </div>
 
+<br>
+
+<!-- ===================== ESTATÍSTICAS ===================== -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1000&color=E50914&background=00000000&center=true&vCenter=true&width=500&lines=📈+Atividade+no+GitHub" />
+</div>
+
+<br>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yuriportf&show_icons=true&theme=dark&bg_color=0A0014&title_color=E50914&text_color=FFFFFF&icon_color=E50914&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuriportf&layout=compact&langs_count=7&theme=dark&bg_color=0A0014&title_color=E50914&text_color=FFFFFF&hide_border=true"/>
+</div>
+
+<br>
+
+<!-- ===================== TROFÉUS ===================== -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1000&color=E50914&background=00000000&center=true&vCenter=true&width=500&lines=🏆+Conquistas" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Yuriportf&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" width="100%"/>
+</div>
+
+<br>
+
 <!-- ===================== VISITAS ===================== -->
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Yuriportf.Yuriportf&left_color=E50914&right_color=E50914" />
 </div>
+
+<br>
 
 <!-- ===================== LINKS SOCIAIS ===================== -->
 <div align="center" style="background: linear-gradient(135deg, #8B0000, #E50914); padding: 20px; border-radius: 12px; margin-top: 16px;">
