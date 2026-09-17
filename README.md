@@ -1,9 +1,11 @@
 <!-- ===================== HEADER ANIMADO (TOPO DO README) ===================== -->
+
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=0:0a0014,50:E50914,100:8B0000&fontColor=FFFFFF" alt="" />
 </div>
 
 <!-- ===================== NOME ESTÁTICO ===================== -->
+
 <div align="center">
   <h1 style="font-family: 'Orbitron', sans-serif; font-weight: 700; font-size: 34px; color: #E50914; letter-spacing: 5px; margin: 12px 0 4px;">
     👾 YURI OLIVEIRA 👾
@@ -12,6 +14,7 @@
 </div>
 
 <!-- ===================== TÍTULO ANIMADO ===================== -->
+
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=26&pause=1000&color=E50914&background=00000000&center=true&vCenter=true&width=600&lines=🚀+Desenvolvedor+Full+Stack;☕+Java+%7C+Spring+%7C+TypeScript;🐍+Python+%7C+Django+%7C+Flask;🖥️+Vue+%7C+Next.js+%7C+React;💻+Sempre+codando%2C+After+Hours" alt="Typing SVG" />
@@ -21,8 +24,9 @@
 <br>
 
 <!-- ===================== STACK / TECNOLOGIAS ===================== -->
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1000&color=E50914&background=00000000&center=true&vCenter=true&width=500&lines=🛠️+Tecnologias+e+Ferramentas" alt="Tecnologias e Ferramentas" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=70&text=🛠️%20Tecnologias%20e%20Ferramentas&fontSize=24&fontColor=E50914&fontAlignY=55&font=Montserrat" alt="Tecnologias e Ferramentas" />
 </div>
 
 <div align="center">
@@ -78,56 +82,33 @@
 <br>
 
 <!-- ===================== TÍTULO COMMITS ===================== -->
+
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1000&color=E50914&background=00000000&center=true&vCenter=true&width=435&lines=📊+Meus+Commits" alt="Meus Commits" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=70&text=📊%20Meus%20Commits&fontSize=24&fontColor=E50914&fontAlignY=55&font=Montserrat" alt="Meus Commits" />
 </div>
 
 <br />
 
 <!-- ===================== SNAKE ANIMATION ===================== -->
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/Yuriportf/Yuriportf/output/snake.svg" alt="Snake animation" width="80%" />
 </div>
 
 <br>
+<!-- ===================== ESTATÍSTICAS LEVES ===================== -->
 
-<!-- ===================== ESTATÍSTICAS ===================== -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1000&color=E50914&background=00000000&center=true&vCenter=true&width=500&lines=📈+Atividade+no+GitHub" alt="Atividade no GitHub" />
-</div>
-
-<br>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yuriportf&show_icons=true&theme=dark&bg_color=0A0014&title_color=E50914&text_color=FFFFFF&icon_color=E50914&hide_border=true&include_all_commits=true&count_private=true" alt="Yuri's GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuriportf&layout=compact&langs_count=7&theme=dark&bg_color=0A0014&title_color=E50914&text_color=FFFFFF&hide_border=true" alt="Top languages" />
-</div>
-
-<br>
-
-<!-- ===================== TROFÉUS ===================== -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1000&color=E50914&background=00000000&center=true&vCenter=true&width=500&lines=🏆+Conquistas" alt="Conquistas" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yuriportf&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" width="100%" alt="GitHub trophies" />
-</div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Yuriportf&show_icons=true&hide_title=true&hide_border=true&bg_color=0A0014&text_color=FFFFFF&icon_color=E50914&include_all_commits=true&count_private=true" height="150" alt="GitHub statistics" /> </div>
 
 <br>
 
 <!-- ===================== VISITAS ===================== -->
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Yuriportf.Yuriportf&left_color=E50914&right_color=E50914" alt="Visitor badge" />
-</div>
 
-<br>
+<div align="center"> <img src="https://visitor-badge.laobi.icu/badge?page_id=Yuriportf.Yuriportf&left_color=E50914&right_color=E50914" alt="Visitor badge" /> </div>
+
 
 <!-- ===================== LINKS SOCIAIS ===================== -->
+
 <div align="center" style="background: linear-gradient(135deg, #8B0000, #E50914); padding: 20px; border-radius: 12px; margin-top: 16px;">
 
   <a href="mailto:ysoli7777@gmail.com">
@@ -161,6 +142,7 @@
 </div>
 
 <!-- ===================== FOOTER ANIMADO ===================== -->
+
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:8B0000,50:E50914,100:0a0014&fontColor=FFFFFF" alt="" />
 </div>
